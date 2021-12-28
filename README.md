@@ -3,7 +3,9 @@
 
 ```
 .
+├── [2.5M]  data.zip
 ├── [794K]  group_users.csv
+├── [ 426]  README.md
 ├── [156K]  test_gi.csv
 ├── [433K]  test_ui_te.csv
 ├── [635K]  test_ui_tr.csv
@@ -13,7 +15,7 @@
 ├── [205K]  val_ui_te.csv
 └── [300K]  val_ui_tr.csv
 
- 6.5M used in 0 directories, 9 files
+ 9.1M used in 0 directories, 11 files
 ```
 
 ## Source
